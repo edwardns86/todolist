@@ -1,0 +1,40 @@
+body {
+    background-image: url(../images/davies-designs-studio-_UCVrH-ZIIg-unsplash.jpg);
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        
+}
+
+.title {
+    margin: 15px ;
+    text-align: center;
+}
+
+.addtask {
+ padding: 5px;
+ height: 300px;
+}
+
+#thingToDo {
+    width: 500px;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+    padding: 5px;        
+}
+.btn {
+    margin: 10px;
+}
+
+.taskcol {
+    width: fit-content;
+}
+
+.displaytask {
+    background-color: #F8F9FA;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 20px;
+    border-radius: 10px;
+}
